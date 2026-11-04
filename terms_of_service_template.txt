@@ -1,0 +1,61 @@
+TERMS OF SERVICE
+
+Last Updated: November 5, 2026
+
+Welcome! These Terms of Service ("Terms") govern your use of the mobile applications (the "App") provided by [Your Name/App Developer Name] ("we," "us," or "our"). 
+
+By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not download or use the App.
+
+----------------------------------------------------------------------
+1. LICENSE AND APP USAGE
+----------------------------------------------------------------------
+- Grant of License: We grant you a personal, non-exclusive, non-transferable, revocable, and limited license to download, install, and use the App on your mobile device strictly for personal, non-commercial purposes.
+- Prohibited Actions: You agree not to:
+  * Reverse engineer, decompile, disassemble, or attempt to derive the source code of the App.
+  * Modify, translate, adapt, or create derivative works based upon the App.
+  * Use the App for any illegal, unauthorized, or fraudulent purpose.
+  * Interfere with or disrupt the integrity or performance of the App or related services.
+
+----------------------------------------------------------------------
+2. ADVERTISING & THIRD-PARTY CONTENT
+----------------------------------------------------------------------
+- Ad-Supported App: The App is provided free of charge and is supported by third-party advertisements (such as Google AdMob).
+- Third-Party Links & Ads: The App may display ads, links, or content provided by third-party networks. We do not control, endorse, or assume responsibility for any third-party websites, products, services, or advertisements. Any interaction with third-party advertisers is solely between you and the advertiser.
+
+----------------------------------------------------------------------
+3. INTELLECTUAL PROPERTY
+----------------------------------------------------------------------
+All content, features, visual interfaces, graphics, design, compilation, code, and trade dress associated with the App are owned by [Your Name/App Developer Name] or our licensors and are protected by intellectual property laws. You do not acquire any ownership rights by downloading or using the App.
+
+----------------------------------------------------------------------
+4. PRIVACY POLICY
+----------------------------------------------------------------------
+Your privacy is important to us. Please review our Privacy Policy [Insert Link to Privacy Policy] to understand how we collect, use, and share information in connection with the App.
+
+----------------------------------------------------------------------
+5. DISCLAIMER OF WARRANTIES
+----------------------------------------------------------------------
+THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+----------------------------------------------------------------------
+6. LIMITATION OF LIABILITY
+----------------------------------------------------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Your Name/App Developer Name] BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, ARISING OUT OF OR IN CONNECTION WITH YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE APP.
+
+----------------------------------------------------------------------
+7. CHANGES TO THESE TERMS
+----------------------------------------------------------------------
+We reserve the right to update or modify these Terms at any time. Any changes will be effective immediately upon posting the updated Terms within the App or on our official web listing. Your continued use of the App following any changes indicates your acceptance of the revised Terms.
+
+----------------------------------------------------------------------
+8. GOVERNING LAW
+----------------------------------------------------------------------
+These Terms shall be governed by and construed in accordance with the laws of [Your Country / Region], without regard to its conflict of law principles.
+
+----------------------------------------------------------------------
+9. CONTACT US
+----------------------------------------------------------------------
+If you have any questions or concerns regarding these Terms, please contact us at:
+
+- Email: [Your Contact Email]
+- Developer Name: [Your Name / Entity Name]
